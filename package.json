@@ -75,5 +75,8 @@
       "<rootDir>/src/Icon",
       "<rootDir>/src/VectorMarkers"
     ]
+  },
+  "jspm": {
+    "registry": "npm"
   }
 }
